@@ -1,0 +1,12 @@
+{"ts": "1774293729617", "level": "INFO", "msg": "WDT disabled by config"}
+{"ts": "1774293729622", "level": "INFO", "msg": "kernel boot"}
+{"ts": "1774293729628", "level": "INFO", "msg": "HAL ready"}
+{"ts": "1774293729629", "level": "INFO", "msg": "home app started"}
+{"ts": "1774293729630", "level": "INFO", "msg": "settings app started"}
+{"ts": "1774293729631", "level": "INFO", "msg": "wifi app started"}
+{"ts": "1774293729631", "level": "INFO", "msg": "storage service started"}
+{"ts": "1774293729633", "level": "INFO", "msg": "timer service started"}
+{"ts": "1774293729633", "level": "INFO", "msg": "wifi service started"}
+{"ts": "1774293729634", "level": "INFO", "msg": "ota service started"}
+{"ts": "1774293729635", "level": "INFO", "msg": "mqtt service started"}
+{"ts": "1774293729638", "level": "INFO", "msg": "home resumed"}
